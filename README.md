@@ -1,4 +1,4 @@
-# SketchLauncher
+# SketchLauncher for Sketch 51 to 58
 
 1) Requires SIP disabled
 2) Have Sketch in Applications directory
